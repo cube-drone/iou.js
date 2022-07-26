@@ -22,8 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-var iou = function(callback){
+var iou = async function(){
     // I promise that I will implement this later. 
-    callback();
-    return true;
+    return Promise.resolve(null);
 }
